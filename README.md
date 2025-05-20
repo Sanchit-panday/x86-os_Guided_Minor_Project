@@ -80,3 +80,27 @@ To build the operating system, navigate to the project directory and run:
 ```bash
 make
 ```
+This command will compile the source code and generate the necessary binaries in the build/ directory.
+
+## Running the OS
+
+After building the project, you can run the OS using QEMU:
+
+```bash
+make
+```
+This script will launch the OS in a QEMU virtual machine, allowing you to test its functionality.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or want to add new features, feel free to fork the repository and submit a pull request.
+
+## Steps to Contribute
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m 'Add feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Open a pull request
+
+Please ensure your code adheres to the project's coding standards and includes appropriate documentation.
