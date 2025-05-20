@@ -59,3 +59,24 @@ To build and run this project, you need the following tools installed on your sy
 ```bash
 sudo apt update
 sudo apt install build-essential nasm qemu
+```
+
+#### On Arch Linux:
+
+```bash
+sudo pacman -S base-devel nasm qemu
+```
+
+#### On macOS (using Homebrew):
+
+```bash
+sudo pacman -S base-devel nasm qemu
+```
+
+## Building the OS
+
+To build the operating system, navigate to the project directory and run:
+
+```bash
+make
+```
