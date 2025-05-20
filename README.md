@@ -31,15 +31,15 @@ This project is intended for educational purposes and is a work in progress. Con
 - Scripts for building and running the OS
 
 ## Directory Structure
-.
-├── build/ # Compiled binaries and ISO images
-├── build_scripts/ # Scripts to automate the build process
-├── run/ # Files related to running the OS
-├── src/ # Source code for the OS (C and Assembly)
-├── tools/ # Tools and utilities for development
-├── Makefile # Build automation file
-├── run.sh # Script to run the OS in an emulator
-└── README.md # Project documentation
+.<br>
+├── build/ # Compiled binaries and ISO images<br>
+├── build_scripts/ # Scripts to automate the build process<br>
+├── run/ # Files related to running the OS<br>
+├── src/ # Source code for the OS (C and Assembly)<br>
+├── tools/ # Tools and utilities for development<br>
+├── Makefile # Build automation file<br>
+├── run.sh # Script to run the OS in an emulator<br>
+└── README.md # Project documentation<br>
 
 
 ## Getting Started
