@@ -1,5 +1,6 @@
 # x86-os_Guided_Minor_Project
 Welcome to the **x86-os_Guided_Minor_Project** repository! This project is an educational initiative aimed at developing a simple operating system from scratch for x86 architecture. It serves as a guided minor project to deepen understanding of low-level system programming and OS concepts.
+![screnshot](./images/screenshot.jpeg)
 
 ## Table of Contents
 
